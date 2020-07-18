@@ -1,13 +1,13 @@
-# JavaScript Homework - JavaScript and DOM Manipulation
+# JavaScript Challenge - JavaScript and DOM Manipulation
 
 ## Background
-For this assignment, write code that will create a table dynamically based upon a [dataset we provide](StarterCode/static/js/data.js). We also need to allow our users to filter the table data for specific values. Languages for this assignment are: JavaScript, HTML, and CSS, and D3.js.
+For this challenge, write code that will create a table dynamically based upon a [dataset we provide](StarterCode/static/js/data.js). We also need to allow our users to filter the table data for specific values. Languages for this assignment are: JavaScript, HTML, and CSS, and D3.js.
 
 ## Your Task
 
 ### Before You Begin
 
-1. Create a new repository for this project called `javascript-challenge`. **Do not add this homework to an existing repository**.
+1. Create a new repository for this project called `javascript-challenge`.
 
 2. Clone the new repository to your computer.
 
